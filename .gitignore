@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.obj
+*.lib
+*.exp
+*.pyd
+build/
+*.egg-info/
+.eggs/
+*.so
+*.o
