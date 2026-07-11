@@ -15,7 +15,7 @@ Travis-CI:
 Blog:
     https://overviewer.org/blog/
 
-
+Updated to Minecraft 26.2 (Thanks to Ai lol)
 **PLEASE NOTE: Overviewer is currently unmaintained. PRs will not be merged
 and issues will not be addressed. The website and repository will remain online
 and accessible.**
